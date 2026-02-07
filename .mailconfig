@@ -1,0 +1,14 @@
+defaults
+auth           on
+tls            on
+tls_trust_file /etc/pki/tls/certs/ca-bundle.crt
+logfile        ~/.msmtp.log
+
+account gmail
+host smtp.gmail.com
+port 587
+from info@devops.com
+user info@devops.com
+password emwfcedvcxzjbpyw
+
+account default : gmail
