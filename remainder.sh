@@ -40,7 +40,7 @@ HTML_BODY=$(cat << 'EOF'
 
               <p style="margin-top:30px;">
                 Best regards,<br>
-                <strong>joindevops team</strong>
+                <strong>JoinDevOps Team</strong>
               </p>
             </td>
           </tr>
