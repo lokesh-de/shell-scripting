@@ -32,7 +32,7 @@ HTML_BODY=$(cat << 'EOF'
               <p>Your session has started. Please click the button below to join now.</p>
 
               <p style="text-align:center; margin:30px 0;">
-                <a href="https://your-session-link.com"
+                <a href="https://learn.joindevops.com/learn/home/DevSecOps-with-AWS-88S/section/701924/lesson/4616899?"
                    style="background:#2f6fed; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:5px; display:inline-block; font-weight:bold;">
                   Join Now
                 </a>
